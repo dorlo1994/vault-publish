@@ -1,16 +1,14 @@
 ---
 title: Chiptune Player
 slug: chiptune-player
-status: ongoing
-startDate: 2024-01-10
+status: done
+startDate: 2025-09-15
 endDate:
 tags: [audio, synthesis, python, fastapi]
 repo: https://github.com/dorlo1994/chiptune_player
 demo: true
 featured: true
 relatedPosts:
-  - building-the-chiptune-engine
-  - fastapi-render-endpoint
 ---
 ## Overview
 This is a chiptune synthesizer, originally built as part of a Hackathon in 2023. Its' main goal is to create audio waveforms directly from a list of notes. It is capable of playing any number of sin, square, sawtooth and triangle waves, while providing musical utility functions such as raising and lowering notes by given intervals and generating chords.
