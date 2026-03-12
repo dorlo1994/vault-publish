@@ -1,9 +1,9 @@
 ---
 title: "RollBot Project Kickoff"
-date: 2026-03-10
+date: 2026-03-12
 type: blog
 tags: [devops, saas, tabletop_roleplay]
-draft: true
+draft: false
 ---
 ## I. Introduction
 Over the last few months, I have been steadily expanding my software development portfolio, with the explicit goal of gaining hands-on experience with modern cloud architecture, using real DevOps practices. While DevOps engineering work has been my professional bread and butter, most of that experience has been focused on on-premise infrastructure. A good project candidate, then, is any real service I can set up on a cloud host to handle real data. Enter: RollBot.
