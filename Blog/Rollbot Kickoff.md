@@ -50,13 +50,13 @@ At this step, RollBot is cloud-ready and migration should be seamless in theory.
 Once RollBot runs on the cloud, resource usage becomes a critical bottleneck in operations. Toolkits like Grafana provide a suite of data collection and analysis tools, which enable further development and issue fixes.
 
 To summarize:
-> Discord
->    ↓
-> RollBot Service
->    ↓
-> PostgreSQL
->    ↓
-> Monitoring Stack
+ Discord
+    ↓
+ RollBot Service
+    ↓
+ PostgreSQL
+    ↓
+ Monitoring Stack
 ## VI. Current Codebase
 Currently on the repository a basic Python implementation of the bot can already be found. It uses Discord's Python API and contains a module for encapsulating roleplaying systems and their rules, with Dungeons and Dragons 5th Edition (DND5E) as an example of such a system. It is capable of holding character sheets and perform skill checks, possibly with Advantage or Disadvantage (taking the maximum or minimum of two dice rolls respectively).
 
